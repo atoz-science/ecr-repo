@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload and a new app.
         </p>
+        <p>this is ecr-react-app</p>
         <a
           className="App-link"
           href="https://reactjs.org"
